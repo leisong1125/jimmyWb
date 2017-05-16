@@ -1,0 +1,6 @@
+framework module Pods_jimmyWb {
+  umbrella header "Pods-jimmyWb-umbrella.h"
+
+  export *
+  module * { export * }
+}
